@@ -4,7 +4,7 @@
 📍 Bangalore, India  
 📧 k.sagar@meedenlabs.com 
 🔗 LinkedIn: https://www.linkedin.com/in/krupasagar
-🌐 GitHub: [krupasagar](https://github.com/krupasagar mallineedi)  
+🌐 GitHub: [krupasagar](https://github.com/krupasagarmallineedi)  
 
 ---
 
