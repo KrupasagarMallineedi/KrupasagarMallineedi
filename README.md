@@ -2,19 +2,19 @@
 
 **Talent Acquisition Executive**  
 📍 Bangalore, India  
-📞 +91 9010400516 | 📧 mrmks9999@gmail.com  
+📧 k.sagar@meedenlabs.com 
 🔗 LinkedIn: https://www.linkedin.com/in/krupasagar
-🌐 GitHub: [krupasagar](https://github.com/krupasagar)  
+🌐 GitHub: [krupasagar](https://github.com/krupasagar mallineedi)  
 
 ---
 
-## 🧑‍💼 Career Summary
+Career Summary
 
 Experienced Talent Acquisition Executive with an MBA and a strong background in end-to-end recruitment across IT and Non-IT industries. Skilled in sourcing, screening, interviewing, and onboarding candidates. Proficient in Naukri, LinkedIn, ATS tools, and more. Known for excellent communication, stakeholder management, and timely closures.
 
 ---
 
-## 🛠️ Expertise
+Expertise:-
 
 - End-to-End Recruitment  
 - Candidate Sourcing & Engagement  
@@ -27,7 +27,7 @@ Experienced Talent Acquisition Executive with an MBA and a strong background in 
 
 ---
 
-## 🧑‍💻 Technical Skills
+Technical Skills:-
 
 - **Job Portals**: Naukri, LinkedIn Recruiter, Shine  
 - **Sourcing Tools**: LinkedIn Talent Insights, Boolean Search  
@@ -38,7 +38,7 @@ Experienced Talent Acquisition Executive with an MBA and a strong background in 
 
 ---
 
-## 💼 Professional Experience
+Professional Experience :-
 
 ### Talent Acquisition Executive | MeedenLabs Pvt. Ltd.  
 📍 Bangalore, India | 🗓️ August 2024 – Present  
@@ -53,16 +53,16 @@ Key Responsibilities:
 
 ---
 
-## 👨‍💻 Technologies & Roles Recruited
+Technologies & Roles Recruited :-
 
 - •	Java Developer (Frontend / Backend / Full Stack / Architect).
-•	Dot Net Developer (Frontend / Backend / Full Stack / Architect).
-•	Python Developer, Mean Stack Developer, Big Data, Data Scientist, PHP, ROR, Laravel.
-•	Performance Testing,SDET, Automation Testing, Manuel Testing, ETL Testing.
-•	Domains like Banking, Insurance, Telecom, Health, etc.
-•	Business Analyst for Banking & Insurance Domain (Both Life Insurance & Non-Life Insurance).
-•	DevOps etc., Cloud technologies – AWS. Azure, GCP etc.
-•	IOS Developer, Android Developer, React Native.
-•	Salesforce, Data engineer 
-•	Non-IT –BIM Engineers, Qs Engineers, BIM Designers, AutoCAD Draughtsman, QA/QC.CRM,SALES SUPPORT
+- •	Dot Net Developer (Frontend / Backend / Full Stack / Architect).
+- •	Python Developer, Mean Stack Developer, Big Data, Data Scientist, PHP, ROR, Laravel.
+- •	Performance Testing,SDET, Automation Testing, Manuel Testing, ETL Testing.
+- •	Domains like Banking, Insurance, Telecom, Health, etc.
+- •	Business Analyst for Banking & Insurance Domain (Both Life Insurance & Non-Life Insurance).
+- •	DevOps etc., Cloud technologies – AWS. Azure, GCP etc.
+- •	IOS Developer, Android Developer, React Native.
+- •	Salesforce, Data engineer 
+- •	Non-IT –BIM Engineers, Qs Engineers, BIM Designers, AutoCAD Draughtsman, QA/QC.CRM,SALES SUPPORT
 .
