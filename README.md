@@ -8,7 +8,7 @@
 
 ---
 **Career Summary**    
-Experienced Talent Acquisition Executive with an MBA and strong expertise in end-to-end recruitment across **IT and Non-IT domains**. Proven skills in sourcing, screening, interviewing, and onboarding candidates. Hands-on experience with Naukri, LinkedIn, ATS tools, and other hiring platforms. Strong in stakeholder and hiring manager coordination, timely closures, and managing multiple requisitions across **product-based, service-based, and consultancy environments**
+Experienced Talent Acquisition Executive with an MBA and strong expertise in end-to-end recruitment across **IT and Non-IT domains**. Proven skills in sourcing, screening, interviewing, and onboarding candidates. Hands-on experience with Naukri, LinkedIn, ATS tools, and other hiring platforms. Strong in stakeholder and hiring manager coordination, timely closures, and managing multiple requisitions across **product-based, service-based, and consultancy, Startup and GCC (Global Capability Center) environments**
 
 ---
 
